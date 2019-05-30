@@ -1,13 +1,13 @@
 Lets suppose that we need to make a wizard, which will lead us through several steps to create an hierarchical structure like this
 
-> Ultimate goal
->> Strategic goal 1
->>> Operational goal 1
->>> Operational goal 2
->>> Operational goal 3
->> Strategic goal 2
->>> Operational goal 1
->>> Operational goal 2
+Ultimate goal
+   Strategic goal 1
+      Operational goal 1
+      Operational goal 2
+      Operational goal 3
+   Strategic goal 2
+      Operational goal 1
+      Operational goal 2
 
 And we need to make it strict For example,
 * You have created an ultimate goal
