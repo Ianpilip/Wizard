@@ -16,5 +16,5 @@ And we need to make it strict For example,
 * Then the first Operational goal
 * If you decided to change the name of the first Strategic goal, you need to go back by 4 steps - The first to return to the third Operational goal of the first Strategic goal, then to the second and so on
 
-All data is stored in LocalStorage everytime you go step forward or step back
-** Aim is to make it work in Internet Explorer also **
+All data is stored in LocalStorage everytime you go step forward or step back    
+**Aim is to make it work in Internet Explorer also**
